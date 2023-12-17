@@ -7,3 +7,4 @@ its gonna download the remote server malware and saves it and forcefully runs.
 no need another click thats it.
 
 it can bypass the realtime.
+2023
