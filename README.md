@@ -11,3 +11,7 @@ it can bypass the realtime.
 
 
 12312-new is downloads, runs, copy the malware to the %APPDATA% and removes old malware.
+
+
+![Proje Görüntüsü](about/23.gif)
+
